@@ -8,7 +8,7 @@ My Born2beRoot project from the 42 courses :)
 <p>
 	If you are having issues with space when you log in to your 42 pc please run this command: `ncdu`. </br>
 	This command will show you the space that your files are using on your pc, then you will need to delete some files so that you have less than 10 GB.
-	When you do so please <strong>MAKE SURE THAT WHAT YOU ARE DELETING IS 100% NOT UNNECESSARY!</strong> </br></br>
+	When you do so please <strong>MAKE SURE THAT WHAT YOU ARE DELETING IS 100% UNNECESSARY!</strong> </br></br>
 	<em>If you still couldn't solve the problem fell free to msg me anywhere.</em>
 </p>
 
