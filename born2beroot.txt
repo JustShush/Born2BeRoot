@@ -1,0 +1,17 @@
+if im on root i dont need to use sudo
+to go to root use "su"
+
+add a user
+- adduser user
+
+change user group
+- usermod -aG <group> <user>
+- usermod -aG sudo dinis
+
+see the inside the group
+- getent group <group>
+- getent group sudo
+
+create a group
+- groupadd <group>
+- groupadd user42
